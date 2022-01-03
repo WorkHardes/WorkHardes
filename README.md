@@ -19,8 +19,15 @@ My name is Arkady and I'm a backend software engineer I'm from Russia, living in
 
 ### 📈 **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WorkHardes&theme=tokyonight&show_icons=true)
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes&layout=compact)](https://github.com/WorkHardes/github-readme-stats)
+<p align="center">
+    <table>
+        <tr>
+            <td>
+                <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=WorkHardes&theme=tokyonight&show_icons=true" />
+            </td>
+            <td>
+                <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes&layout=compact" />
+            </td>
+        </tr>   
+    </table>
+</p>
