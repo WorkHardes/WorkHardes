@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> My name is Arkady and I'm a backend software engineer I'm from Russia, living in Saint-P.
+My name is Arkady and I'm a backend software engineer I'm from Russia, living in Saint-P.
 
 ---
 
