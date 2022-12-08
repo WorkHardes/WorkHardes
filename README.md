@@ -10,6 +10,7 @@ My name is Arkady and I'm a backend software engineer I'm from Russia, living in
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=5194f0)
 
