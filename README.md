@@ -28,7 +28,7 @@ My name is Arkady and I'm a backend software engineer I'm from Russia, living in
                 <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=WorkHardes&theme=tokyonight&show_icons=true" />
             </td>
             <td>
-                <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes" />
+                <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes&layout=compact" />
             </td>
         </tr>   
     </table>
