@@ -4,8 +4,6 @@ My name is Arkady and I'm a backend software engineer I'm from Russia, living in
 
 ---
 
-</br>
-
 ### 🔧 **Technologies & Tools**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
@@ -16,20 +14,7 @@ My name is Arkady and I'm a backend software engineer I'm from Russia, living in
 
 ---
 
-</br>
-
-
 ### 📈 **GitHub Stats**
 
-<p align="center">
-    <table>
-        <tr>
-            <td>
-                <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=WorkHardes&theme=tokyonight&show_icons=true" />
-            </td>
-            <td>
-                <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes&layout=compact" />
-            </td>
-        </tr>   
-    </table>
-</p>
+![Workhardes's GitHub stats](https://github-readme-stats.vercel.app/api?username=WorkHardes&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WorkHardes&layout=compact&hide=csharp)
